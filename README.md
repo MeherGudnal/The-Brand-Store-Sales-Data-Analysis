@@ -29,6 +29,8 @@ and grow more sales in 2023.
 - The adult age group (30- 40 years) is more contributing (~50%)
 - Amazon, Flipkart, and Myntra channels are max contributing (~80%)
 
+
+
 **Final Conclusion to Improve Store Sales**:-
 
 Target Women customers of the age group (30-40) years living in Maharashtra, Karnataka, and Utter Pradesh by showing them 
