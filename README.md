@@ -1,7 +1,7 @@
 # The-Brand-Store-Sales-Data-Analysis
 First Project on Excel using The Brand Store data & making The Brand Store Sales Data Analysis Dashboard.
 
-**Objective**:- The Brand Store Store wants to create annual sales reports for 2022. So that, the Brand store can understand its customers 
+**Objective**:- The Brand Store wants to create annual sales reports for 2022. So that, the Brand store can understand its customers 
 and grow more sales in 2023.
 
 **Tech Stacks** :- 
